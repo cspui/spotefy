@@ -1,6 +1,6 @@
 # 🎧 Spotefy
 
-> A lightweight web audio player that can be hosted and supports any platform.
+> A lightweight web audio player that can be hosted and accessed with any platform.
 
 ### 📁 File Structure 
     .
