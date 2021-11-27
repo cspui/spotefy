@@ -27,6 +27,10 @@
 5. Open the link printed out in the terminal ("https://spotefy.loca.lt/")
 5. 🎉 Thats it, you have succesfully hosted the application 
 
+## 📙 About
+- Coded in [<img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />][webdevplaylist]HTML, [<img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />][cssplaylist]CSS and [<img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />][jsplaylist]JavaScript
+- Libraries: 
+
 ## 📈 Improvements To be Made 
 - 🔍 Search function 
 - 🎨 Add more color contrast 
