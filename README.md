@@ -30,11 +30,11 @@
 ## 📈 Improvements To be Made 
 - 🔍 Search function 
 - 🎨 Add more color contrast 
-- Auto scroll and focus to the current playing track 
+- 🖱️ Auto scroll and focus to the current playing track 
 - Display types of category in frontend
 
 ## ⚠️ Note 
 - You are able to change the subdomain of the link by altering the command "lt -p 3000 -s [SUBDOMAIN NAME] --print-requests".
-- Change the OGG_EXT constant to false if you decided not to add ogg music file.
+- Change the OGG_EXT constant in "index.js" to false if you decided not to add ogg music file.
 - Currently only supports up to one category in the file structure, so be sure to put all the musics into one category file.
 - Media audio controls is not supported in IOS devices (Uable to next track/prev track in the lock screen).
