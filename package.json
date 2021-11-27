@@ -1,0 +1,21 @@
+{
+  "name": "spotefy",
+  "version": "1.0.0",
+  "description": "This is the spotefy music app by Karp",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "music"
+  ],
+  "author": "Karp",
+  "license": "MIT",
+  "dependencies": {
+    "compression": "^1.7.4",
+    "express": "^4.17.1",
+    "get-mp3-duration": "^1.0.0",
+    "jquery": "^3.6.0",
+    "localtunnel": "^2.0.1"
+  }
+}

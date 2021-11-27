@@ -1,0 +1,65 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+
+    <!-- Jquery -->
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.5.1/jquery.min.js" defer></script>
+
+    <!-- PLYR music player -->
+    <script src="https://cdn.plyr.io/3.6.8/plyr.js" defer></script>
+
+    <!-- JS -->
+    <script src="js/main.js" defer></script>
+
+    <!-- CSS -->
+    <link rel="stylesheet" href="https://cdn.plyr.io/3.6.8/plyr.css" />
+    <link href="https://fonts.googleapis.com/icon?family=Material+Icons" rel="stylesheet" />
+    <link rel="stylesheet" href="css/main.css" />
+
+    <!-- Page title -->
+    <title id="pageTitle">Spotefy</title>
+
+    <!--Favicon -->
+    <link rel="icon" href="img/icon.png" type="image" />
+
+    <nav id="nav">
+        <ul id="navList">
+            <li id="navItem">
+                <a id="navA">Spotefy</a>
+            </li>
+        </ul>
+    </nav>
+</head>
+
+<body>
+    <div class="container">
+        <div id="nowPlay">
+            <span id="npAction">Paused...</span><span id="npTitle"></span>
+        </div>
+
+        <div id="audiowrap">
+            <div id="audio0">
+                <audio id="audio1" preload controls>
+                    Your browser does not support HTML5 Audio! 😢
+                </audio>
+            </div>
+
+            <div id="tracks">
+                <i class="material-icons" id="btnDefaultPlay" title="Main play list">playlist_play</i>
+                <i class="material-icons" id="btnShuffle" title="Shuffle track list">&#xe043;</i>
+                <a id="btnPrev" title="Previous track">&larr;</a>
+                <a id="btnNext" title="Next track">&rarr;</a>
+                <i class="material-icons" id="btnPlaylist" title="Custom track list">queue_music</i>
+            </div>
+
+            <div id="plwrap">
+                <ul id="plList"></ul>
+            </div>
+        </div>
+    </div>
+</body>
+
+</html>
