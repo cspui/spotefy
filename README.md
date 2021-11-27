@@ -33,6 +33,7 @@
 - Tools: <img alt="Node.js" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" />Node, <img alt="Express" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/express/express.png" />Express, <img alt="jQuery.js" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/jquery/jquery.png" />jQuery, localtunnel
 
 ## 📈 Improvements To be Made 
+> Maybe never.
 - 🔍 Search function 
 - 🎨 Add more color contrast 
 - 🖱️ Auto scroll and focus to the current playing track 
