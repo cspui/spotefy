@@ -27,13 +27,13 @@
 5. Open the link printed out in the terminal ("https://spotefy.loca.lt/")
 5. 🎉 Thats it, you have succesfully hosted the application 
 
-### 📈 Improvements To be Made 
+## 📈 Improvements To be Made 
 - 🔍 Search function 
 - 🎨 Add more color contrast 
 - Auto scroll and focus to the current playing track 
 - Display types of category in frontend
 
-### ⚠️ Note 
+## ⚠️ Note 
 - You are able to change the subdomain of the link by altering the command "lt -p 3000 -s [SUBDOMAIN NAME] --print-requests".
 - Change the OGG_EXT constant to false if you decided not to add ogg music file.
 - Currently only supports up to one category in the file structure, so be sure to put all the musics into one category file.
