@@ -4,8 +4,9 @@
 
 ### 📁 File Structure 
     .
+    ├── ...
     ├── music                     # Music folder
-    │   ├── category 1   
+    │   ├── mixed   
     │   │   ├── track 1
     │   │   └── track 2
     │   ├── category 2   
