@@ -4,7 +4,6 @@
 
 ![frontpage](frontpage.jpg) 
 
-<p>&nbsp;</p>
 
 ### 📁 File Structure 
     .
