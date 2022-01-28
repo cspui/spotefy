@@ -1,7 +1,7 @@
 {
   "name": "spotefy",
   "version": "1.0.0",
-  "description": "This is the spotefy music app by Karp",
+  "description": "This is the spotefy music app by cspui",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
@@ -10,7 +10,7 @@
   "keywords": [
     "music"
   ],
-  "author": "Karp",
+  "author": "cspui",
   "license": "MIT",
   "dependencies": {
     "compression": "^1.7.4",
