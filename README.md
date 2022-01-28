@@ -7,6 +7,7 @@
 ![frontpage](frontpage.jpg) 
 
 
+<p>&nbsp;</p>
 ### 📁 File Structure 
     .
     ├── ...
@@ -25,6 +26,7 @@
     │   index.js                  # Server file
     └── ...
 
+<p>&nbsp;</p>
 ## ▶️ How to run/host
 1. Clone the repo and make sure the file structure is correct as shown on top
 2. Open a terminal and cd into the cloned folder
@@ -33,9 +35,13 @@
 5. Open the link printed out in the terminal ("https://spotefy.loca.lt/")
 6. 🎉 Congratulations you have succesfully hosted the application.
 
+<p>&nbsp;</p>
+
 ## 📙 About
 - Coded in <img alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />HTML, <img  alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />CSS and <img alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />JavaScript
 - Tools: <img alt="Node.js" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" />Node, <img alt="Express" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/express/express.png" />Express, <img alt="jQuery.js" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/jquery/jquery.png" />jQuery, localtunnel
+
+<p>&nbsp;</p>
 
 ## 📈 Improvements To be Made 
 > Maybe never.
@@ -43,6 +49,8 @@
 - 🎨 Add more color contrast 
 - 🖱️ Auto scroll and focus to the current playing track 
 - Display types of category in frontend
+
+<p>&nbsp;</p>
 
 ## ⚠️ Note 
 - You are able to change the subdomain of the link by altering the command "lt -p 3000 -s [SUBDOMAIN NAME] --print-requests".
