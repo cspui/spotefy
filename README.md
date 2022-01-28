@@ -13,7 +13,7 @@
     .
     ├── ...
     ├── music                     # Music folder
-    │   ├── mixed   
+    │   ├── mixed                 # Includes mp3 & ogg type
     │   │   ├── track 1
     │   │   └── track 2
     │   ├── category 2   
