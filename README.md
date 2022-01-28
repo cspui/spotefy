@@ -2,6 +2,9 @@
 
 > A lightweight web audio player that can be hosted and accessed with any platform.
 
+![frontpage](frontpage.jpg) 
+
+
 ### 📁 File Structure 
     .
     ├── ...
