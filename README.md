@@ -8,6 +8,7 @@
 
 
 <p>&nbsp;</p>
+
 ### 📁 File Structure 
     .
     ├── ...
@@ -27,6 +28,7 @@
     └── ...
 
 <p>&nbsp;</p>
+
 ## ▶️ How to run/host
 1. Clone the repo and make sure the file structure is correct as shown on top
 2. Open a terminal and cd into the cloned folder
