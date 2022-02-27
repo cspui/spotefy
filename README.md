@@ -51,6 +51,7 @@
 - 🎨 Add more color contrast 
 - 🖱️ Auto scroll and focus to the current playing track 
 - Display types of category in frontend
+- Play audio from youtube / spotify api
 
 <p>&nbsp;</p>
 
